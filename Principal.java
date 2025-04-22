@@ -19,8 +19,9 @@ public class Principal {
         System.out.println("Mais uma nova linha");
         System.out.println("Outra linha");
         System.out.println("Tentando gerar conflito");
-        System.out.println("td bem");
-        System.out.println("Nova Branch");
+        System.out.println("adianta po");
+        System.out.println("quero cafe com nescau");
+        
               
     }
 
